@@ -1,0 +1,99 @@
+:root {
+    font-size: 20px;
+    color: #cccccc;
+}
+
+body {
+    background-color: #AAAAAA;
+    width: 100vw;
+    height: 100vh;
+}
+
+header {
+    background-color: #222222;
+    display: inline-block;
+    height: 100vh;
+    vertical-align: top;
+    width: 20vw;
+}
+.cabecalho {
+    text-align: center;
+    margin: 2vh 0;
+    font-size: 1.5rem;
+}
+.fotoCurriculo{
+    margin:5% 25%;
+    width: 50%;
+    height:auto;
+    border-radius:10%
+}
+main {
+    background-color: #0044aa;
+    display: inline-block;
+    height: 100vh;
+    vertical-align: top;
+    width: 79vw;
+}
+section {
+    margin: 2vh 1vw;
+    width:77vw;
+    height:auto;
+}
+table {
+    width: 90%;
+    margin: 2vh 2vw;
+}
+thead {
+    margin: 2vh 2vw;
+}
+th {
+    border: 2px solid #CCCCCC;
+}
+tr {
+    margin: 2vh 2vw;
+}
+td {
+    border: 2px solid #CCCCCC;
+}
+p{
+    line-height:1.5rem;
+    text-align:justify;
+}
+a{
+    color:#CCCCCC;
+}
+ul{
+    margin:1rem 1rem;
+}
+li{
+    line-height:1.2rem;
+}
+
+button {
+    background-color: rgba(0,150,255,.9);
+    border-radius: 10px;
+    display: inline-block;
+    font-weight: bold;
+    height: 40px;
+    margin: 5% 5% 0 5%;
+    width: 90%;
+}
+
+hr{
+    margin:2vh 0
+}
+.objProfissional {
+    display: inline-block;
+}
+.perfil {
+    display: none;
+}
+.expProfissional {
+    display: none;
+}
+.capacitacao {
+    display: none;
+}
+.dadosContato {
+    display: none;
+}
